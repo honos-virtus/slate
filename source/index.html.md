@@ -29,10 +29,15 @@ This example API documentation page was created with [Slate](https://github.com/
 
 # Authentication
 
+asddsadsadsad
+
 ## 123
+
+dadsadsad dasdsadsa
 
 ## 321
 
+asdasdsadsaddsaasd
 > To authorize, use this code:
 
 ```ruby
